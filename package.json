@@ -1,0 +1,21 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "styding jest tests",
+  "main": "index.js",
+  "type": "module",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:LilyaGlazk/hexlet-jest.git"
+  },
+  "author": "Liliya Glazkova",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+    } 
+  
+}
